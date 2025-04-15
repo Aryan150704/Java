@@ -1,1 +1,24 @@
+● Order of Evaluation 
 
+int a = 2, b = 3, c = 4;
+int result = a + b * c;  
+
+Step-by-step:
+• * has higher precedence than +.
+• So b * c happens first: 3 * 4 = 12.
+• Then a + 12 → 2 + 12 = 14.
+
+Sample Java Code:
+
+public class PrecedenceDemo {
+    public static void main(String[] args) {
+        int a = 2, b = 3, c = 4;
+        int result = a + b * c;  // Multiplication first
+
+        System.out.println("Result: " + result);  // Output: 14
+
+        int x = 5;
+        int y = ++x * 2;  // Prefix ++ first, then multiplication
+        System.out.println("y: " + y);  // Output: 12
+    }
+}
