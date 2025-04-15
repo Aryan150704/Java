@@ -1,1 +1,12 @@
+● Operator Precedence
+● Higher precedence operators are solved first.
 
+Priority	Operators	Example
+
+1	() (Parentheses)      |	 (2 + 3) * 4 → 20
+2	++, -- (Unary)    	  |  ++a
+3	*, /, %	              |  5 * 2 → 10
+4	+ , -                 |  10 + 2 → 12
+5	Relational <, >, == 	|  a > b
+6	Logical `&&,	
+7	Assignment =, += etc. |	a += 5
