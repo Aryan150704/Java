@@ -1,0 +1,9 @@
+✅ Explanation:
+● Unary — modifies single value (++/-- before or after).
+● Arithmetic — math operators: + - * / %.
+● Shift — shifts bits left/right << >>.
+● Relational — compare two values (>, <, ==, !=).
+● Bitwise — operates on bits (& | ^ ~).
+● Logical — works on conditions (&& || !).
+● Ternary — short if-else: condition ? true : false.
+● Assignment — =, +=, -=, *=, /= etc.
