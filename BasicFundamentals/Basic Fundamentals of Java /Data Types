@@ -1,0 +1,6 @@
+Data Type | Description            | Example
+int       | Integer values         | int x = 100;
+double    | Decimal numbers        | double pi = 3.14;
+char      | Single character       | char c = 'A';
+boolean   | True or False          | boolean flag = true;
+String    | Sequence of characters | String name = "Alice";
