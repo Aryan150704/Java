@@ -5,4 +5,4 @@ Operator Type	Associativity
 
 Arithmetic | * / % + -	| Left to Right
 Assignment |      =    	| Right to Left
-Relational |   > < == 	|Left to Right
+Relational |   > < == 	| Left to Right
