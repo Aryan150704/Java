@@ -1,1 +1,8 @@
+● Associativity
+● When operators have equal precedence, the tie is broken using associativity:
 
+Operator Type	Associativity
+
+Arithmetic | * / % + -	| Left to Right
+Assignment |      =    	| Right to Left
+Relational |   > < == 	|Left to Right
