@@ -1,1 +1,5 @@
-
+Variables are containers to store data.
+int age = 20; 
+String name = "John"; 
+double pi = 3.14;
+char grade = 'A'; 
